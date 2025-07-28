@@ -23,7 +23,7 @@
 }
 
 .ToDo-App {
-    width: 100px;
+    width: 120px;
     min-width: 540px;
     background-color:  #ffff;
     margin: 100px auto 20px;
@@ -87,7 +87,7 @@ ul li::before {
     height: 28px;
     width: 28px;
     border-radius: 50%;
-    background-image: url("../IMAGESYES/icons8-0-percent-24.png");
+    background-image: url("/images/icons8-0-percent-24.png");
     background-size: cover;
     background-position: center;
     top: 15px;
@@ -100,7 +100,7 @@ ul li.checked {
 }
 
 ul li.checked::before {
-    background-image: url("../IMAGESYES/list-circle-checked.png");
+    background-image: url("/images/list-circle-checked.png");
 }
 
 ul li span {
@@ -118,9 +118,5 @@ ul li span {
 
 ul li span:hover {
     background: #edeef0;
-
-
 }
-
-
 
